@@ -1,6 +1,6 @@
 # Changelog Component
 
-A clean and responsive changelog component built with HTML and CSS. This component helps display updates, fixes, and new features in a visually appealing way.
+A clean and responsive changelog component built with HTML and CSS. This component helps display updates, fixes, and new features in a visually appealing way. Created as part of the [Changelog Component Project](https://roadmap.sh/projects/changelog-component) from roadmap.sh.
 
 ## 🔴 Live Demo
 
